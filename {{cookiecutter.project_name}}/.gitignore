@@ -1,0 +1,13 @@
+# language specific
+.venv/
+.pytest_cache/
+poetry.lock
+**/__pycache__/
+**/.ipynb_checkpoints/
+.hypothesis/
+
+# security
+**/.secret*
+
+# macOS
+**/.DS_Store
